@@ -1,4 +1,4 @@
-# nlpapi_entityresolver
+# nlpapi_synonyms
 
 
 
